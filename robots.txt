@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tcholvens-devs.netlify.app/sitemap.xml
